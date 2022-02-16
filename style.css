@@ -1,0 +1,11 @@
+.container { 
+    min-height: 100vh;
+    display: flex;
+    background: blue;
+}
+
+.calculator { 
+    width: 400px; 
+    border: 2px solid black; 
+    border-radius: 5px;
+}
